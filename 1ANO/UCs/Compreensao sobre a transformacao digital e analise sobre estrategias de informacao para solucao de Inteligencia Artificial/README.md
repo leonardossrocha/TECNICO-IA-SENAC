@@ -31,16 +31,16 @@ Esta Unidade Curricular apresenta os conceitos de transformação digital, a imp
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
 | **01** | Transformação Digital ≠ Digitalização & Lançamento do Safari Tecnológico | [Acessar Slides](https://docs.google.com/presentation/d/1fX7-FofFJEto6PyBCcSE45Ld3JEKAkzrNPpFmdOzZJ0/edit?usp=sharing) | - |
-| **02** | Rotação por Estações: Caça às Tecnologias Habilitadoras | [Acessar Slides](https://docs.google.com/presentation/d/1bksKuttMR7rHxxXjp1_T4gGke7HqwQBWMnB88GikxJQ/edit?usp=sharing) | [Acessar Tarefa](#) |
-| **03** | Painel de Impactos: O Valor do Tempo e a Utopia vs. Distopia | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **04** | Laboratório Prático: Design do Infográfico da Disrupção no Canva | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **02** | Rotação por Estações: Caça às Tecnologias Habilitadoras | [Acessar Slides](https://docs.google.com/presentation/d/1bksKuttMR7rHxxXjp1_T4gGke7HqwQBWMnB88GikxJQ/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/13C74CB_redXFxqTjw11Z8Zvhq1MYdkmSEjz9UieYXa0/edit?usp=sharing) |
+| **03** | Painel de Impactos: O Valor do Tempo e a Utopia vs. Distopia | [Acessar Slides](https://docs.google.com/presentation/d/1ALgbz90r-5h_4bdTEsRloZwQSf-OzFNCDsGDD-Utvv0/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1KGolj8gJ5bnsawFNPt2SoPK0p49guG1OpcQcyqCjYlg/edit?usp=sharing) |
+| **04** | Laboratório Prático: Design do Infográfico da Disrupção no Canva | [Acessar Slides](https://docs.google.com/presentation/d/1-CO-t7siEbjV7XSjpbvPNqaEfcPUS-IOTdHpjrDOh54/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1zEkJmAYp_6YmwuPvWTxm_6MjuxfMzddBGqKAaejNQlY/edit?usp=sharing) |
 
 **Situação de aprendizagem 2 - Estratégia, Cultura e o Fator Humano**
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
 | **05** | Operação Alfa Express: Alinhamento de TI e Negócios & Role-Play | [Acessar Slides](https://docs.google.com/presentation/d/1EsIFIjPinyL7_ME9vlNgMm92QvBj0HLQFnjeJ3k_cLM/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1Hez0rRLEoS4ocQwODSxDNfep-yFQ4CpKhGTbj8iuhqA/edit?usp=sharing) |
-| **06** | Gestão de Conflito e Negociação com o CEO: Defesa de Diagnóstico | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **06** | Gestão de Conflito e Negociação com o CEO: Defesa de Diagnóstico | [Acessar Slides]() | [Acessar Tarefa](#) |
 | **07** | Engenharia Financeira: Orçamento e Plano de Aculturamento Digital | [Acessar Slides](#) | [Acessar Tarefa](#) |
 | **08** | A DEFINIR | [Acessar Slides](#) | [Acessar Tarefa](#) |
 | **09** | A DEFINIR | [Acessar Slides](#) | [Acessar Tarefa](#) |
