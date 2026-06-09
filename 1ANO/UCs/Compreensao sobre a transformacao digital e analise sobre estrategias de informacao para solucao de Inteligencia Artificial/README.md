@@ -31,7 +31,7 @@ Esta Unidade Curricular apresenta os conceitos de transformação digital, a imp
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
 | **01** | Transformação Digital ≠ Digitalização & Lançamento do Safari Tecnológico | [Acessar Slides](https://docs.google.com/presentation/d/1fX7-FofFJEto6PyBCcSE45Ld3JEKAkzrNPpFmdOzZJ0/edit?usp=sharing) | - |
-| **02** | Rotação por Estações: Caça às Tecnologias Habilitadoras | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **02** | Rotação por Estações: Caça às Tecnologias Habilitadoras | [Acessar Slides](https://docs.google.com/presentation/d/1bksKuttMR7rHxxXjp1_T4gGke7HqwQBWMnB88GikxJQ/edit?usp=sharing) | [Acessar Tarefa](#) |
 | **03** | Painel de Impactos: O Valor do Tempo e a Utopia vs. Distopia | [Acessar Slides](#) | [Acessar Tarefa](#) |
 | **04** | Laboratório Prático: Design do Infográfico da Disrupção no Canva | [Acessar Slides](#) | [Acessar Tarefa](#) |
 
