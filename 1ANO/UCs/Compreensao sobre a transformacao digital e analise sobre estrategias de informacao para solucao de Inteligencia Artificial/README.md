@@ -45,7 +45,7 @@ Esta Unidade Curricular apresenta os conceitos de transformação digital, a imp
 | **08** | A DEFINIR | [Acessar Slides](#) | [Acessar Tarefa](#) |
 | **09** | A DEFINIR | [Acessar Slides](#) | [Acessar Tarefa](#) |
 
-**Situação de aprendizagem 3 - Blindagem, Ética e Segurança na IA**
+**Situação de aprendizagem 3 - Blindagem, Ética e Segurança na IA**  (Em construção) 
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
@@ -53,7 +53,7 @@ Esta Unidade Curricular apresenta os conceitos de transformação digital, a imp
 | **11** | Tribunal da LGPD: Conformidade Legal e Limites Éticos da Automação | [Acessar Slides](#) | [Acessar Tarefa](#) |
 | **12** | Laboratório Prático: Checklist de Implementação Segura em Projetos | [Acessar Slides](#) | [Acessar Tarefa](#) |
 
-**Situação de aprendizagem 4 - Business Intelligence e Gestão de Dados**
+**Situação de aprendizagem 4 - Business Intelligence e Gestão de Dados**  (Em construção) 
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
@@ -62,7 +62,7 @@ Esta Unidade Curricular apresenta os conceitos de transformação digital, a imp
 | **15** | Construção do Dashboard de Insights Estratégicos no Looker Studio | [Acessar Slides](#) | [Acessar Tarefa](#) |
 | **16** | Integração de Ferramentas e Relatórios Personalizados com Sistema BI | [Acessar Slides](#) | [Acessar Tarefa](#) |
 
-**Situação de aprendizagem 5 - Pitch de Implementação Estratégica**
+**Situação de aprendizagem 5 - Pitch de Implementação Estratégica**  (Em construção) 
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
