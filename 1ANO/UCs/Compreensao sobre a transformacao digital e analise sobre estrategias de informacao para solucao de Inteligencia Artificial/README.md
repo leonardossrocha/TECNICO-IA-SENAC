@@ -74,9 +74,9 @@ Esta Unidade Curricular apresenta os conceitos de transformação digital, a imp
 ---
 
 ## Avaliação
-- Participação ativa nas dinâmicas presenciais, debates e simulações corporativas[cite: 2].
-- Entrega pontual dos artefatos e documentos executivos no Microsoft Teams por situação de aprendizagem[cite: 2].
-- Qualidade da análise crítica, embasamento técnico-científico e aplicação prática dos conceitos[cite: 2].
+- Participação ativa nas dinâmicas presenciais, debates e simulações corporativas.
+- Entrega pontual dos artefatos e documentos executivos no Microsoft Teams por situação de aprendizagem.
+- Qualidade da análise crítica, embasamento técnico-científico e aplicação prática dos conceitos.
 
 ## Organização do Repositório
 - `slides/` - material de apresentação (Google Slides)
@@ -84,6 +84,6 @@ Esta Unidade Curricular apresenta os conceitos de transformação digital, a imp
 - `README.md` - guia de navegação da Unidade Curricular
 
 ## Referências
-- Catálogo de Soluções de IA e Políticas de Privacidade de Mercado (GDPR/LGPD)[cite: 2].
-- Frameworks de Alinhamento Estratégico, Cultura Informacional e Gestão de Mudança[cite: 2].
-- Manuais Oficiais e Guias Técnicos do Google Looker Studio e Planilhas Google[cite: 2].
+- Catálogo de Soluções de IA e Políticas de Privacidade de Mercado (GDPR/LGPD).
+- Frameworks de Alinhamento Estratégico, Cultura Informacional e Gestão de Mudança.
+- Manuais Oficiais e Guias Técnicos do Google Looker Studio e Planilhas Google.
