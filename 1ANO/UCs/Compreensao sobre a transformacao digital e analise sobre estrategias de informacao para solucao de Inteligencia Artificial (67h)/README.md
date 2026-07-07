@@ -39,9 +39,9 @@ Esta Unidade Curricular apresenta os conceitos de transformação digital, a imp
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **05** | Operação Alfa Express: Alinhamento de TI e Negócios & Role-Play | [Acessar Slides](https://docs.google.com/presentation/d/1EsIFIjPinyL7_ME9vlNgMm92QvBj0HLQFnjeJ3k_cLM/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1Hez0rRLEoS4ocQwODSxDNfep-yFQ4CpKhGTbj8iuhqA/edit?usp=sharing) |
-| **06** | Gestão de Conflito e Negociação com o CEO: Defesa de Diagnóstico (Em construção) | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **07** | Engenharia Financeira: Orçamento e Plano de Aculturamento Digital (Em construção)  | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **05** | O Fator Humano e a Estratégia Digital: Cultura Organizacional na Era da IA | [Acessar Slides](https://docs.google.com/presentation/d/1EsIFIjPinyL7_ME9vlNgMm92QvBj0HLQFnjeJ3k_cLM/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1Hez0rRLEoS4ocQwODSxDNfep-yFQ4CpKhGTbj8iuhqA/edit?usp=sharing) |
+| **06** | Gestão de Conflito e Negociação com o CEO: Defesa de Diagnóstico | [Acessar Slides](https://docs.google.com/presentation/d/14urD4GqXc-t7bJ0oI7olg0ftls0sey87Yk06BaWZOTM/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1tJiTHP3KsfEjq2zZmR6zxY8BhBF5YW5vmHIw3De0tq0/edit?usp=sharing) |
+| **07** | Engenharia Financeira: Orçamento e Plano de Aculturamento Digital | [Acessar Slides](https://docs.google.com/presentation/d/1uwV6dSH40d1F58caXCIYWleN70dMh5OYPVTFe0PjC5A/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1rl53Fg3iWBwFrzdaPIo_GPZKKFku_bzAnRwh5wvL9lQ/edit?usp=sharing) |
 | **08** | A DEFINIR | [Acessar Slides](#) | [Acessar Tarefa](#) |
 | **09** | A DEFINIR | [Acessar Slides](#) | [Acessar Tarefa](#) |
 
