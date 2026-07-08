@@ -47,7 +47,7 @@ Esta Unidade Curricular introduz a base conceitual, o histórico e o funcionamen
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
 | **07** | Exploração Orientada de Notebooks e Introdução ao Scikit-learn (Pair Programming) | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **08** | Desconstruindo o Pipeline: Dados, Treinamento, Previsão e Vieses | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **08** | Desconstruindo o Pipeline: Dados, Treinamento, Previsão e Vieses | [Acessar Slides](https://docs.google.com/presentation/d/1B7Guv4w4oEqopX1TaXA-m9lw54vwZh25UJa6iQrFqm0/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1ypM-ccXNhR3Jgn4AAMaKmQd39JLeF3H24MhNr3LQSCI/edit?usp=sharing) |
 | **09** | ABP Mini-projeto: Treinamento de um Modelo Preditivo Simples | [Acessar Slides](#) | [Acessar Tarefa](#) |
 
 **Situação de aprendizagem 4 - O Lado Oculto dos Algoritmos: Ética, Viés e Impacto Social**
