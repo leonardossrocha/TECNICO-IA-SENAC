@@ -30,9 +30,9 @@ Esta Unidade Curricular introduz a base conceitual, o histórico e o funcionamen
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **01** | Dinâmica "Máquina Humana" e Levantamento de Concepções Iniciais | [Acessar Slides](#) | - |
-| **02** | Rotação por Estações: História da IA e o Teste de Turing | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **03** | Debate Socrático: "O que conta como inteligência?" e Mapa Mental | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **01** | Dinâmica "Máquina Humana" e Levantamento de Concepções Iniciais | [Acessar Slides](https://docs.google.com/presentation/d/1rMr7c11TSm0pVzpvy6EyHJsNry2qhE_O0lHpdl5dGZs/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1KvMNcEJWf1o8BjqSsrhTZsNMjOGgEk6p_Kc6ItlMkOY/edit?usp=sharing) |
+| **02** | Rotação por Estações: História da IA e o Teste de Turing | [Acessar Slides](https://docs.google.com/presentation/d/1W2L1qKYVPZnEXw6oSd-3MwSP9gz7SQaCR874GpK85TQ/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1MW3se5riVLzg-cHqUna2IWAEUUf0ErWf2hFkmCZ-oRQ/edit?usp=sharing) |
+| **03** | Debate Socrático: "O que conta como inteligência?" e Mapa Mental | [Acessar Slides](https://docs.google.com/presentation/d/1LPLiTR7v6Rmliw7BLqeVTVfaQ7A73YDqMj7S0YNh5zM/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/15c1AokQOzrWz3GdrPzBI7MsgwLJTK6rma33TkcMQrnA/edit?usp=sharing) |
 
 **Situação de aprendizagem 2 - Taxonomia e Métodos de IA**
 
