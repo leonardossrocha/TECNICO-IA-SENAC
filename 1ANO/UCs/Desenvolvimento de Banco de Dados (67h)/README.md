@@ -64,8 +64,8 @@ Esta Unidade Curricular capacita os alunos a projetar, implementar e manipular r
 | :---: | :--- | :---: | :---: |
 | **17** | Da Tabela ao Modelo de ML: Exportando e Estruturando Datasets (CSV/JSON) | [Acessar Slides](../../AulasPraticas/BD_Encontro_17.md) | [Acessar Tarefa](#) |
 | **18** | Júri Simulado Online: Viés Algorítmico, Vazamentos e os Impactos de Dados Mal Estruturados | [Acessar Slides](../../AulasPraticas/BD_Encontro_18.md) | [Acessar Tarefa](#) |
-| **19** | Adequação LGPD: Mascaramento e Anonimização de Dados via SQL | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **20** | Encerramento da UC: Entrega do Repositório Final e Code Review em Pares | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **19** | Adequação LGPD: Mascaramento e Anonimização de Dados via SQL | [Acessar Slides](../../AulasPraticas/BD_Encontro_19.md) | [Acessar Tarefa](#) |
+| **20** | Encerramento da UC: Entrega do Repositório Final e Code Review em Pares | [Acessar Slides](../../AulasPraticas/BD_Encontro_20.md) | [Acessar Tarefa](#) |
 
 ---
 
