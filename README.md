@@ -19,7 +19,16 @@ Conceitos de transformação digital, estratégias de informação, governança 
 
 ---
 
-#### **2. Desenvolvimento de Linguagem de Programação Python** 
+#### **2. Desenvolvimento de Banco de Dados**
+🗄️ **Carga Horária:** 67h
+
+[📖 Acesse o conteúdo completo →](./1ANO/UCs/Desenvolvimento%20de%20Banco%20de%20Dados%20(67h)/README.md)
+
+Modelagem de dados, normalização, linguagem SQL, integridade referencial, governança e preparação de datasets para aplicações de IA.
+
+---
+
+#### **3. Desenvolvimento de Linguagem de Programação Python** 
 🐍 **Carga Horária:** 67h
 
 [📖 Acesse o conteúdo completo →](./1ANO/UCs/Desenvolvimento%20de%20linguagem%20de%20programa%C3%A7%C3%A3o%20Python%20(67h)/README.md)
