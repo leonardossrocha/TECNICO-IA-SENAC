@@ -31,41 +31,41 @@ Esta Unidade Curricular capacita os alunos a projetar, implementar e manipular r
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **01** | A Fundação da IA: Como dados desorganizados quebram sistemas (Descoberta Guiada em Planilhas) | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **02** | O Paradigma Relacional: Traduzindo o mundo real para Entidades e Atributos | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **03** | PBL: Levantamento de Requisitos e Regras de Negócio (O Caso da Startup) | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **04** | Pair Design Virtual: Desenhando Diagramas ER e Mapeando Cardinalidades no Draw.io | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **05** | Normalização e Revisão de Projetos: Defesa Técnica dos Modelos | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **01** | A Fundação da IA: Como dados desorganizados quebram sistemas (Descoberta Guiada em Planilhas) | [Acessar Slides](https://docs.google.com/presentation/d/1gopMrnQWiOPicSs47vs_hiQ9SBpg2lVnENJG-XehgFI/edit?usp=sharing) | [Acessar Tarefa](#) |
+| **02** | O Paradigma Relacional: Traduzindo o mundo real para Entidades e Atributos | [Acessar Slides](https://docs.google.com/presentation/d/1j9ZFAQhaJNI8Omln-Xb9MwHjXK2z8h8uLaAbcZxK_cU/edit?usp=sharing) | [Acessar Tarefa](#) |
+| **03** | PBL: Levantamento de Requisitos e Regras de Negócio (O Caso da Startup) | [Acessar Slides](https://docs.google.com/presentation/d/1vgeYmlmxNLFFQTBKWoA1RMmxXetTx_LwmL-ASKgVBks/edit?usp=sharing) | [Acessar Tarefa](#) |
+| **04** | Pair Design Virtual: Desenhando Diagramas ER e Mapeando Cardinalidades no Draw.io | [Acessar Slides](https://docs.google.com/presentation/d/1-NDhSLRGoRHmsSbwZ3vy0nu-folKFi8mkuXS2Zz7Lg0/edit?usp=sharing) | [Acessar Tarefa](#) |
+| **05** | Normalização e Revisão de Projetos: Defesa Técnica dos Modelos | [Acessar Slides](https://docs.google.com/presentation/d/1ikV8sDgwDkQ8nmaUNuSjrvhRLY1LwKWyJBxNrZw1rRA/edit?usp=sharing) | [Acessar Tarefa](#) |
 
 **Situação de aprendizagem 2 - Construindo a Fundação: SGBDs e DDL**
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **06** | Setup do Laboratório: Entendendo o Motor do Banco (MySQL/PostgreSQL) | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **06** | Setup do Laboratório: Entendendo o Motor do Banco (MySQL/PostgreSQL) | [Acessar Slides](https://docs.google.com/presentation/d/1gopMrnQWiOPicSs47vs_hiQ9SBpg2lVnENJG-XehgFI/edit?usp=sharing) | [Acessar Tarefa](#) |
 | **07** | Rotação por Estações Virtuais: Tipos de Dados e Sintaxe DDL Básica | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **08** | Mão na Massa: CREATE, ALTER, DROP e a Criação de Tabelas | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **09** | Chaves Primárias e Estrangeiras: Garantindo a Integridade Referencial | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **10** | Desafio de Implementação: Transformando o Diagrama da SA1 em Código Real | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **08** | Mão na Massa: CREATE, ALTER, DROP e a Criação de Tabelas | [Acessar Slides](https://docs.google.com/presentation/d/1kVcXjtevw_r4ejD4PoI_3FtLRkdF4a9ue5ogxo0X_i4/edit?usp=sharing) | [Acessar Tarefa](#) |
+| **09** | Chaves Primárias e Estrangeiras: Garantindo a Integridade Referencial | [Acessar Slides](https://docs.google.com/presentation/d/1kVcXjtevw_r4ejD4PoI_3FtLRkdF4a9ue5ogxo0X_i4/edit?usp=sharing) | [Acessar Tarefa](#) |
+| **10** | Desafio de Implementação: Transformando o Diagrama da SA1 em Código Real | [Acessar Slides](https://docs.google.com/presentation/d/1kVcXjtevw_r4ejD4PoI_3FtLRkdF4a9ue5ogxo0X_i4/edit?usp=sharing) | [Acessar Tarefa](#) |
 
 **Situação de aprendizagem 3 - O Fluido da IA: Manipulação e Consultas em SQL**
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **11** | Povoando o Sistema (DML): Comandos INSERT, UPDATE e DELETE com Segurança | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **12** | A Arte de Fazer Perguntas aos Dados: SELECT e Filtros (WHERE, LIKE, IN) | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **13** | Coding Dojo Virtual: Funções de Agregação (SUM, AVG, COUNT, GROUP BY) | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **14** | Unindo Mundos: Lógica dos Relacionamentos e a Aplicação de INNER JOINS | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **15** | ScrumLite Sprint 1: Extraindo Relatórios Estratégicos do Backlog do Cliente | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **16** | Otimização de Consultas: Como não sobrecarregar o banco de dados | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **11** | Povoando o Sistema (DML): Comandos INSERT, UPDATE e DELETE com Segurança | [Acessar Material](../../AulasPraticas/BD_Encontro_11.md) | [Acessar Tarefa](#) |
+| **12** | A Arte de Fazer Perguntas aos Dados: SELECT e Filtros (WHERE, LIKE, IN) | [Acessar Slides](https://docs.google.com/presentation/d/16kBCTe4ofttOj5WY0IPjdttM0Y0AC3OwFWGsGE0ufk8/edit?usp=sharing) | [Acessar Tarefa](#) |
+| **13** | Coding Dojo Virtual: Funções de Agregação (SUM, AVG, COUNT, GROUP BY) | [Acessar Slides](https://docs.google.com/presentation/d/16kBCTe4ofttOj5WY0IPjdttM0Y0AC3OwFWGsGE0ufk8/edit?usp=sharing) | [Acessar Tarefa](#) |
+| **14** | Unindo Mundos: Lógica dos Relacionamentos e a Aplicação de INNER JOINS | [Acessar Slides](https://docs.google.com/presentation/d/1elW1-ewKDrSCgvT29dkC3pp96IsrpabIGBswohBbZD4/edit?usp=sharing) | [Acessar Tarefa](#) |
+| **15** | ScrumLite Sprint 1: Extraindo Relatórios Estratégicos do Backlog do Cliente | [Acessar Slides](https://docs.google.com/presentation/d/1elW1-ewKDrSCgvT29dkC3pp96IsrpabIGBswohBbZD4/edit?usp=sharing) | [Acessar Tarefa](#) |
+| **16** | Otimização de Consultas: Como não sobrecarregar o banco de dados | [Acessar Slides](https://docs.google.com/presentation/d/1elW1-ewKDrSCgvT29dkC3pp96IsrpabIGBswohBbZD4/edit?usp=sharing) | [Acessar Tarefa](#) |
 
 **Situação de aprendizagem 4 - Engenharia de Dados para IA e Governança**
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **17** | Da Tabela ao Modelo de ML: Exportando e Estruturando Datasets (CSV/JSON) | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **18** | Júri Simulado Online: Viés Algorítmico, Vazamentos e os Impactos de Dados Mal Estruturados | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **17** | Da Tabela ao Modelo de ML: Exportando e Estruturando Datasets (CSV/JSON) | [Acessar Slides](../../AulasPraticas/BD_Encontro_17.md) | [Acessar Tarefa](#) |
+| **18** | Júri Simulado Online: Viés Algorítmico, Vazamentos e os Impactos de Dados Mal Estruturados | [Acessar Slides](../../AulasPraticas/BD_Encontro_18.md) | [Acessar Tarefa](#) |
 | **19** | Adequação LGPD: Mascaramento e Anonimização de Dados via SQL | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **20** | Encerramento da UC: Entrega do Repositório Final e Code Review em Pares | [Acessar Slides](#) | - |
+| **20** | Encerramento da UC: Entrega do Repositório Final e Code Review em Pares | [Acessar Slides](#) | [Acessar Tarefa](#) |
 
 ---
 
