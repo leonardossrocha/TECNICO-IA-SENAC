@@ -50,17 +50,17 @@ Esta Unidade Curricular explora a infraestrutura de hardware que sustenta os sis
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **04** | Sprint 1: Curadoria Multimídia (Vídeos, Artigos e Podcasts) por Componente | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **05** | Sprint 2: Síntese de Dados e Preparação do "Post-it Único" | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **06** | Sprint 3: O Pitch dos Especialistas e Mapeamento de Gargalos | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **04** | Sprint 1: Curadoria Multimídia (Vídeos, Artigos e Podcasts) por Componente | [Acessar Slides](https://docs.google.com/presentation/d/1sgDpqdQgf0g-vXS6PvBnmsmmsU3mWAjVIiPdD5phhSM/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1tOVAa7BdnVto_0yJJu3D8kbmEfx02X29qGX3CPStYI8/edit?usp=sharing) |
+| **05** | Sprint 2: Síntese de Dados e Preparação do "Post-it Único" | [Acessar Slides](https://docs.google.com/presentation/d/1sgDpqdQgf0g-vXS6PvBnmsmmsU3mWAjVIiPdD5phhSM/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1EFJmA9gUggmo2HOoYwNcMiHaBxZUaCRn29YDciH4MEc/edit?usp=sharing) |
+| **06** | Sprint 3: O Pitch dos Especialistas e Mapeamento de Gargalos | [Acessar Slides](https://docs.google.com/presentation/d/1sgDpqdQgf0g-vXS6PvBnmsmmsU3mWAjVIiPdD5phhSM/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/10JQtoYK7XRKQLcK4ln2IzWlvDjfV4p0qKdS54y5wKM4/edit?usp=sharing) |
 
 **Situação de aprendizagem 4 - Desempenho, Gargalos e Especificações Reais**
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **07** | Leitura de Datasheets: Como interpretar especificações de fabricantes | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **08** | Estudo de Caso: Quando a CPU limita a GPU e engarrafamentos de placa-mãe | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **09** | Ferramentas de Benchmark e Monitoramento de Hardware na prática | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **07** | Leitura de Datasheets: Como interpretar especificações de fabricantes | [Acessar Slides](https://docs.google.com/presentation/d/1xWIdrgp94o4yRPJBoMtxVllFA_X4X-3dfRHC7pXyOJw/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1ONAJrK9aYE1xHPLnJQB3Wn26OfFDp2MIitoxV0ag7q4/edit?usp=sharing) |
+| **08** | Estudo de Caso: Quando a CPU limita a GPU e engarrafamentos de placa-mãe | [Acessar Slides](https://docs.google.com/presentation/d/1ldwtCqfv2HDMJLYv88XCPEJz7OEpo0XdRRC-ueAqc0E/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1LmHQqcdAafPvc4pesghdEeZqAKeTPoEUsIbmr4XFhco/edit?usp=sharing) |
+| **09** | Ferramentas de Benchmark e Monitoramento de Hardware na prática | [Acessar Slides](https://docs.google.com/presentation/d/1hErsjt8lpcoifxGYt8Ju9VWfV30miTMnMwtV_6FvHUs/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1XB80iZmBKDILSfJ4tHu4I9js40U9GME8U9GBGkwi86Y/edit?usp=sharing) |
 
 **Situação de aprendizagem 5 - Projeto Final: Dimensionamento do Servidor AgroVision**
 
