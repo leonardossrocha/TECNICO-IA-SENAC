@@ -14,14 +14,14 @@
 | :---: | :--- | :---: | :---: |
 | **01** | O "Hello World" e o I/O | [Acessar Slides](https://docs.google.com/presentation/d/1B3DJ8x2qkBYs1kXm59zLBU9aeAYAq-02w562ZO42MZU/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/155hAVLvWaqyDFcj1uzQ0dW9KmAYuxcc2iUhwvzGwdMM/edit?usp=sharing) |
 | **02** | Operações e Auditoria (Conversão e Lógica) | [Acessar Slides](https://docs.google.com/presentation/d/1A5GWTpGjqYrKChDP_Bgg5rBYtR2_-bnB8KoF-uZJEnc/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1xFWbukK3RQNNgQ04siJBlHhcAi23QLTJooItLrpnI84/edit?usp=sharing) |
-| **03** | Consolidação do Cadastro Dinâmico e Fechamento | [Acessar Slides]() | [Acessar Tarefa]() |
+| **03** | Consolidação do Cadastro com bônus | [Acessar Slides](https://docs.google.com/presentation/d/1yYyfBj-Wqapnjl0zxrxAK2c_ntC29fgXKq8yhmZwBkw/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1sapJ4i02j2mqCNjtDXJfovTsQ-whd-dgYSU3kiOQHZs/edit?usp=sharing) |
 
 **Situação de Aprendizagem 2 - Tomada de Decisão Lógica e Auditoria**
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **04** | Inteligência do Sistema: if, elif, else | [Acessar Slides]() | [Acessar Tarefa]() |
-| **05** | Fluxogramas e Code Review Falado | [Acessar Slides]() | [Acessar Tarefa]() |
+| **04** | Tomando decisões: if, elif, else | [Acessar Slides](https://docs.google.com/presentation/d/1kDvoYH7NoGx0Wa_r__a8NNNgMApt3U3unxw7DDOoSEs/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1BHd9Cx1388TMVnsY4KvV6eVSm3SrdK4-ethTmgSjOGc/edit?usp=sharing) |
+| **05** | Arquitetura de software segura - Laços de repetição | [Acessar Slides](https://docs.google.com/presentation/d/1HMKzT4Xe3U1VS6G1GLNvhWAwCRdUOfZFBIC5TIT67XI/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/14GXAm8vIbrwTidBPenfoW8T6Lc90k10VibOc76iZXRE/edit?usp=sharing) |
 | **06** | Defesa Lógica: Apresentação da Decisão Financeira | [Acessar Slides]() | [Acessar Tarefa]() |
 
 **Situação de Aprendizagem 3 - Automação Massiva e Coleções de Dados**
