@@ -41,7 +41,7 @@ Esta Unidade Curricular capacita os alunos a projetar, implementar e manipular r
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **06** | Setup do Laboratório: Entendendo o Motor do Banco (MySQL/PostgreSQL) | [Acessar Slides](https://docs.google.com/presentation/d/1gopMrnQWiOPicSs47vs_hiQ9SBpg2lVnENJG-XehgFI/edit?usp=sharing) | [Acessar Tarefa](#) |
+| **06** | Setup do Laboratório: Entendendo o Motor do Banco (MySQL/PostgreSQL) | [Acessar Slides](https://docs.google.com/presentation/d/1gudnFkQW0P72aqVWwP09jhW-nZW1oUYrLaZ8tj6gt7I/edit?usp=sharing) | [Acessar Tarefa](#) |
 | **07** | Rotação por Estações Virtuais: Tipos de Dados e Sintaxe DDL Básica | [Acessar Slides](#) | [Acessar Tarefa](#) |
 | **08** | Mão na Massa: CREATE, ALTER, DROP e a Criação de Tabelas | [Acessar Slides](https://docs.google.com/presentation/d/1kVcXjtevw_r4ejD4PoI_3FtLRkdF4a9ue5ogxo0X_i4/edit?usp=sharing) | [Acessar Tarefa](#) |
 | **09** | Chaves Primárias e Estrangeiras: Garantindo a Integridade Referencial | [Acessar Slides](https://docs.google.com/presentation/d/1kVcXjtevw_r4ejD4PoI_3FtLRkdF4a9ue5ogxo0X_i4/edit?usp=sharing) | [Acessar Tarefa](#) |
