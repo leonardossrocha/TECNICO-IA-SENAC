@@ -45,13 +45,13 @@ Esta Unidade Curricular apresenta os conceitos de transformação digital, a imp
 | **08** | A DEFINIR | [Acessar Slides](https://docs.google.com/presentation/d/1uwV6dSH40d1F58caXCIYWleN70dMh5OYPVTFe0PjC5A/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1rl53Fg3iWBwFrzdaPIo_GPZKKFku_bzAnRwh5wvL9lQ/edit?usp=sharing) |
 | **09** | A DEFINIR | [Acessar Slides](https://docs.google.com/presentation/d/1Zw0BsrxlNvHz-E0KfTlJpcb9c9gAoUNNgVKp8sLx-s4/edit?usp=sharing) | [Acessar Tarefa](https://docs.google.com/document/d/1fhq09YCJoAON7IqJtDq-fNUFSrnJAHccDih8E-nUnTA/edit?usp=sharing) |
 
-**Situação de aprendizagem 3 - Blindagem, Ética e Segurança na IA**  (Em construção) 
+**Situação de aprendizagem 3 - Blindagem, Ética e Segurança na IA**
 
 | Encontro | Tema da Aula | 🖥️ Slides de Aula (Google) | 📝 Atividade / Tarefa (Teams) |
 | :---: | :--- | :---: | :---: |
-| **10** | Escape Room Digital: Caça ao Viés e Privacidade em IAs Generativas | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **11** | Tribunal da LGPD: Conformidade Legal e Limites Éticos da Automação | [Acessar Slides](#) | [Acessar Tarefa](#) |
-| **12** | Laboratório Prático: Checklist de Implementação Segura em Projetos | [Acessar Slides](#) | [Acessar Tarefa](#) |
+| **10** | Escape Room Digital: Caça ao Viés e Privacidade em IAs Generativas | [Acessar Slides](https://docs.google.com/presentation/d/1pdKnkZwC2Pd46zxvubIBczpo-lZmmyAaGcad6YbFsZI/edit?usp=sharing) | - |
+| **11** | Tribunal da LGPD: Conformidade Legal e Limites Éticos da Automação | [Acessar Slides](https://docs.google.com/presentation/d/11a07USYNFJ_xwCu7QJOEPUcZ61ilXQWByvYU2vjNMgE/edit?usp=sharing) | - |
+| **12** | Laboratório Prático: Checklist de Implementação Segura em Projetos | [Acessar Slides](https://docs.google.com/presentation/d/1jA5y0pk795huSJvHa_BSJpVaQhgcT4t5eyUJEst39O8/edit?usp=sharing) | - |
 
 **Situação de aprendizagem 4 - Business Intelligence e Gestão de Dados**  (Em construção) 
 
